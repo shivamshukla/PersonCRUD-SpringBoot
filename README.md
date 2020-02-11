@@ -1,4 +1,4 @@
-# Person relatd information
+# Person related information
 Simple CRUD application made with Spring Boot
 
 - Spring Boot
