@@ -13,14 +13,10 @@ Usage (with eclipse):
 3.) Run
 4.) Navigate to https://localhost:8080
 
-Application contains two demo users:
-user-name password   Role 
-user       user      USER
-admin      admin     ADMIN
+Application contains two users:user/user,admin/admin
 
-Admin can only delete the user.
+Admin has only rights to delete the user.
 
-Using Signup page, user can create another user of only ROLE=USER.
+Using Signup page, user can create another user of only type ROLE=USER.
 
-After login with ADMIN rights, one can delete, add, edit the person.
-and with USER rights, one can add and edit the person
+After login with ADMIN rights, one can delete, add, edit the person record and with USER rights, one can add and edit the person record.
