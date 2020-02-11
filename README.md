@@ -11,7 +11,14 @@ Usage (with eclipse):
 1.) Clone the project
 2.) Eclipse: File -> Import -> Maven -> Existing Maven Projects
 3.) Run
-4.) Navigate to https://localhost:8080
+4.) Navigate to localhost:8080
+
+on command line, run the following command:
+1) git clone https://github.com/shivamshukla/PersonCRUD-SpringBoot.git
+2) mvn clean
+3) mvn install
+4) mvn spring-boot:run
+5) Open localhost:8080 on browser.
 
 Application contains two users:user/user,admin/admin
 
